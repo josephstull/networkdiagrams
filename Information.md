@@ -20,3 +20,10 @@ Hello!  This document is more detailed information on each piece of equipment in
 
 2. Aerohive AP330 100mbps WAP: Older Access point hosting wifi for untrusted devices, smart devices, and original Xbox Live via Insignia.  AP and devices attached are placed on a seperate VLAN to protect trusted devices
 
+---WIRE RACK---
+(note: Wire rack is a 3 tier Hyper Tough wire rack from Walmert)
+1. OMV (OpenMediaVault): Storage server hoating files and media within the household
+   
+2. ProxMox: Host containers and sandbox virtual machines, allowing for testing of malware and viruses
+
+3. Printers: Color and black and white printers, running to the Raspberry Pi 4B Print Server to allow netwok wide use of printers.

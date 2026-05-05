@@ -11,7 +11,7 @@ ON TOP: Silver Peak FW-7551A-SV1 w/ OpnSense: Purchased on eBay and installed Op
 
 4-5. Dell optiplex 7090 Proxmox cluster: Proxmox Cluster alongside Dell Optiplex 3060 for containers and virtual machines
 
-6-8. Cover Plates for future projects: 2U worth of extra space for future projects
+6-8. Cover Plates for future projects: 3U worth of extra space for future projects
 
 9. 8 outlet power supply: powers all devices in network rack and provides surge protection
 

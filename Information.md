@@ -13,7 +13,7 @@ ON TOP: Silver Peak FW-7551A-SV1 w/ OpnSense: Purchased on eBay and installed Op
 
 6-8. Cover Plates for future projects: 2U worth of extra space for future projects
 
-9. 12 outlet power supply: powers all devices in network rack and provides surge protection
+9. 8 outlet power supply: powers all devices in network rack and provides surge protection
 
 ---ACCESS POINTS---
 1. TP-Link Omada Wifi 7 WAP: Wifi 7 Access Point for wireless devices trusted on the network, including desktop computers, laptops, phones, and video game consoles.

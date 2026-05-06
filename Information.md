@@ -1,9 +1,9 @@
 Hello!  This document is more detailed information on each piece of equipment inside the home network.
 
 ---9U 10" SWITCH RACK---
-ON TOP: Silver Peak FW-7551A-SV1 w/ OpnSense: Purchased on eBay and installed OpnSense on it, used for segmentation of and between 1gbps and 100mbps networks.
+ON TOP: Silver Peak FW-7551A-SV1 w/ OpnSense: Purchased on eBay and installed OpnSense on it.
 
-1. GeeekPi 12-Port Cat6 Patch Panel: Patch panel providing network connectivity to devices.  Ports 1-5 are for 1gbps devices, port 6-10 are for 100mbps devices, port 11-12 are for uplinks to switches
+1. GeeekPi 12-Port Cat6 Patch Panel: Patch panel providing network connectivity to devices.  Ports 1-2 are for wireless access points, ports 3-4 are for Raspberry Pi devices, ports 5-6 are for Dell Optiplex 7090 Proxmox nodes, ports 7-8 are for Dell Optiplex 3060 and 5040 servers, port 9 is a wired connection to wired devices in the living room, and port 12 is for uplinks to switches
 
 2. UGREEN 10-port PoE Gigabit switch: Provides internet access for TP-Link Omada Wifi 7 AP, ProxMox Server, OpenMediaVault storage server, and extra ports for testing wired devices
 
